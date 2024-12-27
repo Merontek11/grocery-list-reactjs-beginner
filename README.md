@@ -7,8 +7,8 @@ It is a beginner friendly Grocery list App built using ReactJS.Blog Post for the
 ## Demo
 
 👉 [Link](https://ecstatic-torvalds-7d441f.netlify.app/)
-# Origional repository 
-
+# Original repository 
+https://github.com/kritika27/grocery-list-reactjs-beginner
 
 ## Screenshot
 
