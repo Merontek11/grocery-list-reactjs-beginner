@@ -12,8 +12,12 @@ https://github.com/kritika27/grocery-list-reactjs-beginner
 
 ## Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/4997491/133280327-1ec44ebb-32ee-475b-abac-267541b955e3.JPG)
 
+![screenshot](https://user-images.githubusercontent.com/4997491/133280327-1ec44ebb-32ee-475b-abac-267541b955e3.JPG)
+---
+## Modified  Screenshot
+![image](https://github.com/user-attachments/assets/968458f4-992a-45fd-b51b-34dfd9e499c7)
+---
 ## Installation
 
 Step 1
